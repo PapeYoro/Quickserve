@@ -1,0 +1,11 @@
+Scaffold basics meterial design.
+
+Visible widget:
+-> input and Output(visble)
+
+Button:
+-> RaisedButton(), Text(), card(),...
+
+Layout and control
+
+Row(), column(), Listview(), 
